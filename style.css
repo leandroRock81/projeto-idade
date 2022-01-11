@@ -5,10 +5,7 @@ body {
     font: normal 15pt arial;
     
 }
-body {
-    min-width: 300px;
-    max-width: 900px;
-}
+
 
 header {
     color: white;
