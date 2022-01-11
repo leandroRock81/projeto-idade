@@ -13,7 +13,7 @@ header {
 section {
     background-color: white;
     border-radius: 10px;
-    padding: 15px;
+    padding: 10px;
     width: 500px;
     margin: auto;
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.424);
@@ -24,4 +24,7 @@ footer {
     text-align: center;
     font-style: italic;
 
+}
+h4 {
+    text-align: center;
 }
