@@ -1,9 +1,11 @@
 @charset "UTF-8";
 
 body {
+   
     background-color: rgb(32, 199, 143);
     font: normal 15pt arial;
     text-align: center;
+    
 }
 
 
@@ -20,6 +22,7 @@ section {
     margin: auto;
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.424);
 }
+
 
 footer {
     color: white;
