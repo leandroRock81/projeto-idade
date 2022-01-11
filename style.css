@@ -3,13 +3,17 @@
 body {
     background-color: rgb(32, 199, 143);
     font: normal 15pt arial;
+    
+}
+body {
     min-width: 300px;
-    max-width: 1000px;
+    max-width: 900px;
 }
 
 header {
     color: white;
     text-align: center;
+    margin-right: -400px;
 }
 
 section {
